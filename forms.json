@@ -1,64 +1,34 @@
 {
   "forms": [
     {
-      "title": "UTS PA Kristen FASE E",
-      "description": "Ujian dibuka pukul 08:00-09:30 WITA",
-      "url": "https://docs.google.com/forms/d/e/1FAIpQLSeBH-PwpihwfA2uSbV0bxeXDB5c5SVyA3IMk0TZTXjnpHhAqQ/viewform?usp=header"
+      "title": "Soal Ujian 1",
+      "description": "Ini adalah soal test 1",
+      "url": "https://docs.google.com/forms/d/e/1FAIpQLScJ8qANFt-BVR14KOn8D6VTkmoM43vgKcwApMMqDi6elNWGKw/viewform?usp=header"
     },
     {
-      "title": "PENDIDIKAN AGAMA ISLAM KELAS XI",
-      "description": "Ujian dibuka pukul 08:00-09:30 WITA",
-      "url": "https://docs.google.com/forms/d/1eTNQw6wMckpaa6CefdRCwQ7vbyznVqWqnC7d4UeEKts"
+      "title": "Soal Ujian 2",
+      "description": "Ini adalah soal test 2",
+      "url": "https://docs.google.com/forms/d/e/1FAIpQLSeafjSrpY6dhf39NyCc9mAvK1yiKrPwEFWGqweOImM861mALw/viewform?usp=header"
     },
         {
-      "title": "PENDIDIKAN AGAMA ISLAM KELAS XII",
-      "description": "Ujian dibuka pukul 08:00-09:30 WITA",
-      "url": "https://docs.google.com/forms/d/1eTNQw6wMckpaa6CefdRCwQ7vbyznVqWqnC7d4UeEKts"
-    },
-        {
-      "title": "PENDIDIKAN AGAMA KRISTEN KELAS X",
-      "description": "Ujian dibuka pukul 08:00-09:30 WITA",
-      "url": "https://docs.google.com/forms/d/1eTNQw6wMckpaa6CefdRCwQ7vbyznVqWqnC7d4UeEKts/edt"
-    },
-        {
-      "title": "PENDIDIKAN AGAMA KRISTEN KELAS XI",
-      "description": "Ujian dibuka pukul 08:00-09:30 WITA",
-      "url": "https://docs.google.com/forms/d/1eTNQw6wMckpaa6CefdRCwQ7vbyznVqWqnC7d4UeEKts/eit"
-    },
-        {
-      "title": "PENDIDIKAN AGAMA KRISTEN KELAS XII",
-      "description": "Ujian dibuka pukul 08:00-09:30 WITA",
-      "url": "https://docs.google.com/forms/d/1eTNQw6wMckpaa6CefdRCwQ7vbyznVqWqnC7d4UeEKts/eit"
-    },
-        {
-      "title": "PENDIDIKAN AGAMA KATOLIK KELAS X",
-      "description": "Ujian dibuka pukul 08:00-09:30 WITA",
-      "url": "https://docs.google.com/forms/d/1eTNQw6wMckpaa6CefdRCwQ7vbyznVqWqnC7d4UeEKts/edit"
-    },
-        {
-      "title": "PENDIDIKAN AGAMA KATOLIK KELAS XI",
-      "description": "Ujian dibuka pukul 08:00-09:30 WITA",
-      "url": "https://docs.google.com/forms/d/1eTNQw6wMckpaa6CefdRCwQ7vbyznVqWqnC7d4UeEKts/edit"
-    },
-        {
-      "title": "PENDIDIKAN AGAMA KATOLIK KELAS XII",
-      "description": "Ujian dibuka pukul 08:00-09:30 WITA",
-      "url": "https://docs.google.com/forms/d/1eTNQw6wMckpaa6CefdRCwQ7vbyznVqWqnC7d4UeEKts/edit"
+      "title": "Soal Ujian 3",
+      "description": "Ini adalah soal test 3",
+      "url": "https://docs.google.com/forms/d/e/1FAIpQLSc67hXk1LTKOjPNNK6nYSsWlpkmW6RZ0IaMen3Yd14dlAKQQw/viewform?usp=header"
     },
         {
       "title": "LOGIN",
       "description": "Google Account",
-      "url": "https://docs.google.com/forms/d/1eTNQw6wMckpaa6CefdRCwQ7vbyznVqWqnC7d4UeEKts/edi"
+      "url": "https://accounts.google.com"
     },
         {
       "title": "TEST",
       "description": "DESKRIPSI",
-      "url": "https://docs.google.com/forms/d/1eTNQw6wMckpaa6CefdRCwQ7vbyznVqWqnC7d4UeEKts/edit"
+      "url": "https://docs.google.com/"
     },
         {
       "title": "UJIAN",
       "description": "KELAS",
-      "url": "https://docs.google.com/forms/d/1eTNQw6wMckpaa6CefdRCwQ7vbyznVqWqnC7d4UeEKts/edit"
+      "url": "https://www.google.com"
     }
   ]
 }
