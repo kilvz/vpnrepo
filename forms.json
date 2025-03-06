@@ -1,34 +1,49 @@
 {
   "forms": [
     {
-      "title": "Soal Ujian 1",
-      "description": "Ini adalah soal test 1",
-      "url": "https://docs.google.com/forms/d/e/1FAIpQLScJ8qANFt-BVR14KOn8D6VTkmoM43vgKcwApMMqDi6elNWGKw/viewform?usp=header"
+      "title": "AGAMA ISLAM & BUDI PEKERTI KELAS X",
+      "description": "Ini adalah soal ujicoba",
+      "url": "https://docs.google.com/forms/d/e/1FAIpQLScWVqjzq68fioB2C9ItRXMwM3PI6JnMGTrCCFdYtQjXBRVs3A/viewform?usp=sharing"
     },
     {
-      "title": "Soal Ujian 2",
-      "description": "Ini adalah soal test 2",
-      "url": "https://docs.google.com/forms/d/e/1FAIpQLSeafjSrpY6dhf39NyCc9mAvK1yiKrPwEFWGqweOImM861mALw/viewform?usp=header"
+      "title": "AGAMA ISLAM & BUDI PEKERTI KELAS XI",
+      "description": "Ini adalah soal ujicoba",
+      "url": "https://docs.google.com/forms/d/e/1FAIpQLSdC4lLyFAR_y7WfWCMo6-CtR50ksIbfA_zzt8BkJmRz7dxVJw/viewform?usp=sharing"
     },
         {
-      "title": "Soal Ujian 3",
-      "description": "Ini adalah soal test 3",
-      "url": "https://docs.google.com/forms/d/e/1FAIpQLSc67hXk1LTKOjPNNK6nYSsWlpkmW6RZ0IaMen3Yd14dlAKQQw/viewform?usp=header"
+      "title": "AGAMA ISLAM & BUDI PEKERTI KELAS XII",
+      "description": "Ini adalah soal ujicoba",
+      "url": "https://docs.google.com/forms/d/e/1FAIpQLScDBAjZEWJaaATRkc25MNf2E8HHTVLAE1zrv4d3T0HveVR_gQ/viewform?usp=sharing"
     },
         {
-      "title": "LOGIN",
+      "title": "AGAMA KRISTEN DAN BUDI PEKERTI KELAS X",
       "description": "Google Account",
-      "url": "https://accounts.google.com"
+      "url": "https://docs.google.com/forms/d/e/1FAIpQLSc-s02tY_Pq-uRddX9pbKqcrUs2RfZ6B0QVBu9jFYRLdQK65Q/viewform?usp=sharing"
     },
         {
-      "title": "TEST",
+      "title": "AGAMA KRISTEN DAN BUDI PEKERTI KELAS XI",
       "description": "DESKRIPSI",
-      "url": "https://docs.google.com/"
+      "url": "https://docs.google.com/forms/d/e/1FAIpQLSfevSC4hEP1I-eYIj-b-doA1W8f9iMkYUePTxIkS11Q4kJl_g/viewform?usp=sharing"
     },
         {
-      "title": "UJIAN",
+      "title": "AGAMA KRISTEN DAN BUDI PEKERTI KELAS XIi",
       "description": "KELAS",
-      "url": "https://www.google.com"
+      "url": "https://docs.google.com/forms/d/e/1FAIpQLSdBOlQEOxxo_128zYFHsKihQrPoc0SS1TNgBm5sz-sAqCpJJw/viewform?usp=sharing"
+    },
+        {
+      "title": "AGAMA KRISTEN KATOLIK DAN BUDI PEKERTI KELAS X",
+      "description": "DESKRIPSI",
+      "url": "https://docs.google.com/forms/d/e/1FAIpQLSdKKQyMO-l5TTMwJL1y1dj17eCPepBMNAgY6oxcg6WqeWKR6A/viewform?usp=sharing"
+    },
+        {
+      "title": "AGAMA KRISTEN KATOLIK DAN BUDI PEKERTI KELAS XI",
+      "description": "DESKRIPSI",
+      "url": "https://docs.google.com/forms/d/e/1FAIpQLScCgyIHKlWPqUEsXS49AuuZSi10cIjcgLjGFbc2VZ4y2AA1rQ/viewform?usp=sharing"
+    },
+        {
+      "title": "AGAMA KRISTEN KATOLIK DAN BUDI PEKERTI KELAS XII",
+      "description": "DESKRIPSI",
+      "url": "https://docs.google.com/forms/d/e/1FAIpQLSdQcJUK_u8-B5gYBxAGmYz9PdVzYXGotgyNhljU4fn0Ifwu4w/viewform?usp=sharing"
     }
   ]
 }
