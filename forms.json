@@ -1,54 +1,34 @@
 {
   "forms": [
     {
-      "title": "P. AGAMA ISLAM & BUDI PEKERTI KELAS X",
+      "title": "BAHASA INGGRIS KELAS X",
       "description": "Ujian Tengah Semester (UTS) Fase E",
-      "url": "https://docs.google.com/forms/d/e/1FAIpQLScTqULX1j4p7gM4WMpcyj_KcqibgrIogttA6AT2y6zgoqX7Kw/viewform?usp=sharing"
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSdSJSZ3x5IwHu3YHqYiw43BNTRp8fpN0_we-C08pNKG2qKm6A/viewform?usp=dialog"
     },
     {
-      "title": "P. AGAMA KRISTEN & BUDI PEKERTI KELAS X",
+      "title": "MATEMATIKA KELAS X",
       "description": "Ujian Tengah Semester (UTS) Fase E",
-      "url": "https://docs.google.com/forms/d/e/1FAIpQLSeBH-PwpihwfA2uSbV0bxeXDB5c5SVyA3IMk0TZTXjnpHhAqQ/viewform?usp=sharing"
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSfuauCfzkEoeitgMpYgMc0_CTA8MLqvQrb0u9lLQ1_GVmrJLw/viewform?usp=dialog"
     },
         {
-      "title": "P. AGAMA KATOLIK & BUDI PEKERTI KELAS X",
+      "title": "SEJARAH KELAS X",
       "description": "Ujian Tengah Semester (UTS) Fase E",
-      "url": "https://docs.google.com/forms/d/e/1FAIpQLScSn3kZDCRq8uM4Dfy8Xw0VapSvJuuU0A0e9-qspna2JwAyRA/viewform?usp=sharing"
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSek7CC8eV0W1ppRSY_Krt2r-ccFu_MMy7pNRJobzbDSSVtpSw/viewform?usp=dialog"
     },
         {
-      "title": "P. PANCASILA KELAS X",
-      "description": "Ujian Tengah Semester (UTS) Fase E",
-      "url": "https://docs.google.com/forms/d/e/1FAIpQLSdmXxN0aXNgCKufTSjxDlzm_ptrpfwmBiuBENI6Dj_9ONGnYA/viewform?usp=sharing"
+      "title": "MATEMATIKA KELAS XII",
+      "description": "Ujian Tengah Semester (UAS) Fase F",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSfPhKWuNbhGbBhHvgRxF8Pm4T0MtRQGhmQxDdmtWJrcAqCfqw/viewform?usp=dialog"
     },
         {
-      "title": "BAHASA INDONESIA KELAS X",
-      "description": "Ujian Tengah Semester (UTS) Fase E",
-      "url": "https://docs.google.com/forms/d/e/1FAIpQLSeY51eT6PoYeyllsVOvKcZVJm30ZxsZU_M7PwUn1Jmh6KAK7Q/viewform?usp=sharing"
+      "title": "PKK KELAS XII",
+      "description": "Ujian Tengah Semester (UAS) Fase F",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSfF6AghWzhRy8z-9axokiaNxNJM6PT_rnx2rT5n3Q-VKiAyRg/viewform?usp=dialog"
     },
 		{
-      "title": "P. AGAMA ISLAM & BUDI PEKERTI KELAS XII",
+      "title": "BAHASA INGGRIS KELAS XII",
       "description": "Ujian Akhir Semester (UAS) Fase F",
-      "url": "https://docs.google.com/forms/d/e/1FAIpQLSfyPpDWlcK274Z5eKwlLwQZa7xYPp9g2v1RMeR1-rDEqbBIEw/viewform?usp=sharing"
-    },
-    {
-      "title": "P. AGAMA KRISTEN & BUDI PEKERTI KELAS XII",
-      "description": "Ujian Akhir Semester (UAS) Fase F",
-      "url": "https://docs.google.com/forms/d/e/1FAIpQLSedEIKN98w-EChU1SX6Ro4ZCRO-s4hqX8qKi_XnqaoexzOCag/viewform?usp=sharing"
-    },
-        {
-      "title": "P. AGAMA KATOLIK & BUDI PEKERTI KELAS XII",
-      "description": "Ujian Akhir Semester (UAS) Fase F",
-      "url": "https://docs.google.com/forms/d/e/1FAIpQLScY-7i7QcA01yA3l-cPESh2-lveKfFeA8gqjyfmwA4Y-Q6jeQ/viewform?usp=sharing"
-    },
-        {
-      "title": "P. PANCASILA KELAS XII",
-      "description": "Ujian Akhir Semester (UAS) Fase F",
-      "url": "https://docs.google.com/forms/d/e/1FAIpQLSfHtEjJdNSWkqDIF0NrGmBDNYhwO3DgI-8lNrcVSzDQ82-NWg/viewform?usp=sharing"
-     },
-	{
-      "title": "BAHASA INDONESIA KELAS XII",
-      "description": "Ujian Akhir Semester (UAS) Fase F",
-      "url": "https://docs.google.com/forms/d/e/1FAIpQLSdxkd58N0kCANEPVosqbm_OoJn60xMEl9w7xUg3w51FqC7Tbg/viewform?usp=sharing"
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSdcAERXUqmeHOSSwqhF-h8p4ZWkOEChOSdo4dZvqOsvXOj2bw/viewform?usp=dialog"
     }
 	
   ]
