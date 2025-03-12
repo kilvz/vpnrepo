@@ -1,45 +1,44 @@
-
 {
-  "mcmxv": [
+  "kamis": [
     {
-      "title": "PJOK",
-      "description": "Ujian Tengah Semester (UTS) Fase E",
-      "link": "https://docs.google.com/forms/d/e/1FAIpQLSehA20klwageU9DfdDywvbul2zWPL57BH8aaYKgG2W4kN8YdA/viewform?usp=dialog"
+      "judul": "DDK Busana",
+      "deskr": "Ujian Tengah Semester (UTS) Fase E",
+      "lokas": "https://docs.google.com/forms/d/e/1FAIpQLSc7XgJXtcHgixFdhFK1ygUaSVl_9ZkSX6bW6-2ug9D6QZi5lg/viewform?usp=dialog"
     },
-        {
-      "title": "MK KULINER",
-      "description": "Ujian Tengah Semester (UAS) Fase F",
-      "link": "https://docs.google.com/forms/d/e/1FAIpQLSeQ1QZUiIkzHZdAMnBAdn07vPFXxHtCkCoPM1PQLbOZ8nB9Ew/viewform?usp=dialog"
+	{
+      "judul": "DDK Kecantikan",
+      "deskr": "Ujian Tengah Semester (UTS) Fase E",
+      "lokas": "https://docs.google.com/forms/d/e/1FAIpQLScgCuyRGmSpD2wG7r0TJx4NCMotgysN-Dywz7JFnzKNKk_djg/viewform?usp=dialog"
     },
-        {
-      "title": "MK KECANTIKAN",
-      "description": "Ujian Tengah Semester (UAS) Fase F",
-      "link": "https://docs.google.com/forms/d/e/1FAIpQLSeOo_myEg_HSDINwLq6r6X8eBGOcr-ww9w3sMc_-ce2yxMcPw/viewform?usp=dialog"
+	{
+      "judul": "DDK Kuliner",
+      "deskr": "Ujian Tengah Semester (UTS) Fase E",
+      "lokas": "https://docs.google.com/forms/d/e/1FAIpQLSdF8fcDTZeTPuRGdcGb2nPZAOUIx3QXJABwg4boIwdK-oFK-w/viewform?usp=dialog"
     },
-        {
-      "title": "MK PPLG",
-      "description": "Ujian Tengah Semester (UAS) Fase F",
-      "link": "https://docs.google.com/forms/d/e/1FAIpQLSd3niL2OHHVbJ55TsvSzrlhzvx4CcCtoKQ8Z6_GevDPg4se2g/viewform?usp=dialog"
+	{
+      "judul": "DDK Perhotelan",
+      "deskr": "Ujian Tengah Semester (UTS) Fase E",
+      "lokas": "https://docs.google.com/forms/d/e/1FAIpQLSdrKuNyNIQY0fkdbVKboDTSX69FhIAABlv_qZfsCG1-Xi5nwA/viewform?usp=dialog"
     },
-		{
-      "title": "MK TJKT",
-      "description": "Ujian Akhir Semester (UAS) Fase F",
-      "link": "https://docs.google.com/forms/d/e/1FAIpQLScLNStbaTEIfADLj7P8UbsYNfwOfzMZ4XRAVDZF8cEvRf-UjQ/viewform?usp=dialog"
+	{
+      "judul": "DDK PPLG",
+      "deskr": "Ujian Tengah Semester (UTS) Fase E",
+      "lokas": "https://docs.google.com/forms/d/e/1FAIpQLSdIozXKptVPkof_Mx3Ox6sMfgt-gCoWPcDET-NCUjNt4vvqXw/viewform?usp=dialog"
     },
-		{
-      "title": "MK BUSANA",
-      "description": "Ujian Akhir Semester (UAS) Fase F",
-      "link": "https://docs.google.com/forms/d/e/1FAIpQLSd7cCXtxDNbDSFUGudNZhJajGHUOYYPFRvbd5j9hxDCY8yAqg/viewform?usp=dialog"
+	{
+      "judul": "DDK TJKT",
+      "deskr": "Ujian Tengah Semester (UTS) Fase E",
+      "lokas": "https://docs.google.com/forms/d/e/1FAIpQLSfMwvw6vfA42yDG11O0woGA1qoUB5IPTm7hYmlximAFoONbTQ/viewform?usp=dialog"
     },
-		{
-      "title": "MK PERHOTELAN",
-      "description": "Ujian Akhir Semester (UAS) Fase F",
-      "link": "https://docs.google.com/forms/d/e/1FAIpQLSdVcTMJuPG4ucXOkhMGTOdSItXCs1eUQM3leRhFbWTDUJHsQg/viewform?usp=dialog"
+	{
+      "judul": "DDK ULP",
+      "deskr": "Ujian Tengah Semester (UTS) Fase E",
+      "lokas": "https://docs.google.com/forms/d/e/1FAIpQLScs4OogOuTy7fp_hyHhkqflelyHkIL_7sU4x3SAPL25UXFwnw/viewform?usp=dialog"
     },
-		{
-      "title": "MK ULP",
-      "description": "Ujian Akhir Semester (UAS) Fase F",
-      "link": "https://docs.google.com/forms/d/e/1FAIpQLSc3ncEfOVUJoN72f800ijQv91hn2fPlL98gH9cxEFjhloISqg/viewform?usp=dialog"
+	{
+      "judul": "Informatika",
+      "deskr": "Ujian Tengah Semester (UTS) Fase E",
+      "lokas": "https://docs.google.com/forms/d/e/1FAIpQLScqETZo8qpSMlCNE2FUJiaY3_UU0yOHbyr388cz6d8JyFhxkQ/viewform?usp=dialog"
     }
 	
   ]
