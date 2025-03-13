@@ -1,9 +1,14 @@
 {
   "kamis": [
     {
-      "judul": "UJIAN",
-      "deskr": "Deskripsi",
-      "lokas": "https://smkn3manado.sch.id"
+      "judul": "Muatan Lokal ",
+      "deskr": "UTS Kelas X",
+      "lokas": "https://docs.google.com/forms/d/e/1FAIpQLScXHabgrzQvcWfqGVSecfmSgZqpZWDY7xPgC-fNhoLKMaSEGA/viewform?usp=dialog"
+    }
+	      {
+      "judul": "IPAS",
+      "deskr": "UTS Kelas X",
+      "lokas": "https://docs.google.com/forms/d/e/1FAIpQLScUSzIxqbeJwY9Q7zwmpyvNgEVEQcntjs4H9jPmltHhKUmW3w/viewform?usp=dialog"
     }
 	
   ]
