@@ -1,0 +1,45 @@
+{
+  "susulan": [
+    {
+      "judul": "DDK Busana",
+      "deskr": "Ujian Tengah Semester (UTS) Fase E",
+      "lokas": "https://docs.google.com/forms/d/e/1FAIpQLSc7XgJXtcHgixFdhFK1ygUaSVl_9ZkSX6bW6-2ug9D6QZi5lg/viewform?usp=dialog"
+    },
+	{
+      "judul": "DDK Kecantikan",
+      "deskr": "Ujian Tengah Semester (UTS) Fase E",
+      "lokas": "https://docs.google.com/forms/d/e/1FAIpQLScgCuyRGmSpD2wG7r0TJx4NCMotgysN-Dywz7JFnzKNKk_djg/viewform?usp=dialog"
+    },
+	{
+      "judul": "DDK Kuliner",
+      "deskr": "Ujian Tengah Semester (UTS) Fase E",
+      "lokas": "https://docs.google.com/forms/d/e/1FAIpQLSdF8fcDTZeTPuRGdcGb2nPZAOUIx3QXJABwg4boIwdK-oFK-w/viewform?usp=dialog"
+    },
+	{
+      "judul": "DDK Perhotelan",
+      "deskr": "Ujian Tengah Semester (UTS) Fase E",
+      "lokas": "https://docs.google.com/forms/d/e/1FAIpQLSdrKuNyNIQY0fkdbVKboDTSX69FhIAABlv_qZfsCG1-Xi5nwA/viewform?usp=dialog"
+    },
+	{
+      "judul": "DDK PPLG",
+      "deskr": "Ujian Tengah Semester (UTS) Fase E",
+      "lokas": "https://docs.google.com/forms/d/e/1FAIpQLSdIozXKptVPkof_Mx3Ox6sMfgt-gCoWPcDET-NCUjNt4vvqXw/viewform?usp=dialog"
+    },
+	{
+      "judul": "DDK TJKT",
+      "deskr": "Ujian Tengah Semester (UTS) Fase E",
+      "lokas": "https://docs.google.com/forms/d/e/1FAIpQLSfMwvw6vfA42yDG11O0woGA1qoUB5IPTm7hYmlximAFoONbTQ/viewform?usp=dialog"
+    },
+	{
+      "judul": "DDK ULP",
+      "deskr": "Ujian Tengah Semester (UTS) Fase E",
+      "lokas": "https://docs.google.com/forms/d/e/1FAIpQLScs4OogOuTy7fp_hyHhkqflelyHkIL_7sU4x3SAPL25UXFwnw/viewform?usp=dialog"
+    },
+	{
+      "judul": "Informatika",
+      "deskr": "Ujian Tengah Semester (UTS) Fase E",
+      "lokas": "https://docs.google.com/forms/d/e/1FAIpQLScqETZo8qpSMlCNE2FUJiaY3_UU0yOHbyr388cz6d8JyFhxkQ/viewform?usp=dialog"
+    }
+	
+  ]
+}
