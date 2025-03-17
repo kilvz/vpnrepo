@@ -1,18 +1,6 @@
 {
   "kamis": [
-	      {
-      "judul": "P. Agama Islam",
-      "deskr": "Ujian Akhir Sekolah",
-      "lokas": "https://docs.google.com/forms/d/e/1FAIpQLSexSAWWkI4Kmke6W0TY_2hDgVEBrWP-2UmwYSSW5t1b_Qlt_g/viewform?usp=dialog"
-    },{
-      "judul": "P. Agama Kristen",
-      "deskr": "Ujian Akhir Sekolah",
-      "lokas": "https://docs.google.com/forms/d/e/1FAIpQLSeNDtn98HtC7OCjjQzczIMEBCnNu_a1X8vDEZJI_GfNb_sJbQ/viewform?usp=dialog"
-    },{
-      "judul": "P. Agama Katolik",
-      "deskr": "Ujian Akhir Sekolah",
-      "lokas": "https://docs.google.com/forms/d/e/1FAIpQLSfV_oGT9Tm3M8j3yMFk-aj-DU12aHVGWQrMaPzAyOl43fpf9g/viewform?usp=dialog"
-    },{
+    {
       "judul": "P. Pancasila",
       "deskr": "Ujian Akhir Sekolah",
       "lokas": "https://docs.google.com/forms/d/e/1FAIpQLSdHNLSrLBX5guk5U5odhmtnhih8cfiNbiNPXRtQ6BPojPeUcg/viewform?usp=dialog"
