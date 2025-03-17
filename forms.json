@@ -1,17 +1,9 @@
 {
   "kamis": [
 	{
-      "judul": "Untuk upload Essay soal Matematika",
-      "deskr": "s.id/mates3",
-      "lokas": ""
-    },{
-      "judul": "Harap Siapkan Kertas",
-      "deskr": "Dan Pulpen",
-      "lokas": ""
-    },{
-      "judul": "Dan bacalah soal",
-      "deskr": "dengan seksama",
-      "lokas": ""
+      "judul": "Matematika",
+      "deskr": "Ujian Akhir Sekolah",
+      "lokas": "https://docs.google.com/forms/d/e/1FAIpQLSeGG6Ut8HXkjCU7A1GSlWaPKOYz4ikez0dJG11ilmGGk-pvrQ/viewform?usp=dialog"
     }
 	
   ]
