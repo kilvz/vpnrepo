@@ -1,13 +1,33 @@
 {
   "kamis": [
-    {
-      "judul": "Informatika",
+	{
+      "judul": "DDK ULP",
       "deskr": "Ujian Akhir Sekolah",
-      "lokas": "https://docs.google.com/forms/d/e/1FAIpQLSehwStsmK0sQLV7X0dDXQOTaeIaYeda8KTultj22DaKIznopA/viewform?usp=sharing"
+      "lokas": "https://docs.google.com/forms/d/e/1FAIpQLSdqaSQVYuYbxEnXa8mRtn_f6jpQxyfwmsccRarnYnpKTYSsjA/viewform?usp=dialog"
     },{
-      "judul": "Sejarah (Susulan)",
-      "deskr": "Susulan",
-      "lokas": "https://docs.google.com/forms/d/e/1FAIpQLSf9jlh-O7I8DbL5zxQ6KnhLAfeG66JsqvsKSEpgXTrKoyawtg/viewform?usp=dialog"
+      "judul": "DDK TJKT",
+      "deskr": "Ujian Akhir Sekolah",
+      "lokas": "https://docs.google.com/forms/d/e/1FAIpQLSdNjk9NFrkcIpbWrkEtNVJmSSK2N56Cf066Zawoco5I6PN8XA/viewform?usp=dialog"
+    },{
+      "judul": "DDK PPLG",
+      "deskr": "Ujian Akhir Sekolah",
+      "lokas": "https://docs.google.com/forms/d/e/1FAIpQLSfBAdwsRsI9CETY6TtRgjkswKQN_TZoR2MZ_-p6eS4Ss2N72g/viewform?usp=dialog"
+    },{
+      "judul": "DDK PERHOTELAN",
+      "deskr": "Ujian Akhir Sekolah",
+      "lokas": "https://docs.google.com/forms/d/e/1FAIpQLSdtJFs8F4KCc6Tmwg7LczX1sbV78sJi72GAqTP689VUDAssfg/viewform?usp=dialog"
+    },{
+      "judul": "DDK KULINER",
+      "deskr": "Ujian Akhir Sekolah",
+      "lokas": "https://docs.google.com/forms/d/e/1FAIpQLSdTg0mFj8ZMJvTOucn8wK5DOabJ-pdg5tabsTTioK-peYDwRQ/viewform?usp=dialog"
+    },{
+      "judul": "DDK BUSANA",
+      "deskr": "Ujian Akhir Sekolah",
+      "lokas": "https://docs.google.com/forms/d/e/1FAIpQLSeZfgAE35SjWzXCUcKCjzG_wYPVaH7359nNUuQlpZhJTuxdDw/viewform?usp=dialog"
+    },{
+      "judul": "DDK KECANTIKAN",
+      "deskr": "Ujian Akhir Sekolah",
+      "lokas": "https://docs.google.com/forms/d/e/1FAIpQLScmKl8HxFW48nVqSXJf8kMuzlPuWYwgL_5Lva4MKUvdhZyJhw/viewform?usp=dialog"
     }
-  ]
+	 ]
 }
