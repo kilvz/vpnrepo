@@ -1,33 +1,43 @@
 {
   "kamis": [
 	{
-      "judul": "DDK ULP",
-      "deskr": "Ujian Akhir Sekolah",
-      "lokas": "https://docs.google.com/forms/d/e/1FAIpQLSdqaSQVYuYbxEnXa8mRtn_f6jpQxyfwmsccRarnYnpKTYSsjA/viewform?usp=dialog"
+      "judul": "SUSULAN PANCASILA",
+      "deskr": "Susulan",
+      "lokas": "https://docs.google.com/forms/d/e/1FAIpQLSe0K272tuAJN-YeQnRyUAaOjwozu97hp-Y3jOql5HeVToFyIw/viewform?usp=dialog"
     },{
-      "judul": "DDK TJKT",
-      "deskr": "Ujian Akhir Sekolah",
-      "lokas": "https://docs.google.com/forms/d/e/1FAIpQLSdNjk9NFrkcIpbWrkEtNVJmSSK2N56Cf066Zawoco5I6PN8XA/viewform?usp=dialog"
+      "judul": "SUSULAN AGAMA KRISTEN",
+      "deskr": "Susulan",
+      "lokas": "https://docs.google.com/forms/d/e/1FAIpQLSdftnxlxLw48HjKyZqgQzWNOFK_D5hbqM-XD5iBT9KXL1oa2g/viewform?usp=dialog"
+	},{
+      "judul": "SUSULAN AGAMA ISLAM",
+      "deskr": "Susulan",
+      "lokas": "https://docs.google.com/forms/d/e/1FAIpQLSfUfjzgEEw_qDu5R7v3_OKjYDJxaS68RTG00DlqO7rV6mZPhw/viewform?usp=dialog"
     },{
-      "judul": "DDK PPLG",
-      "deskr": "Ujian Akhir Sekolah",
-      "lokas": "https://docs.google.com/forms/d/e/1FAIpQLSfBAdwsRsI9CETY6TtRgjkswKQN_TZoR2MZ_-p6eS4Ss2N72g/viewform?usp=dialog"
+      "judul": "SUSULAN BAHASA INGGRIS",
+      "deskr": "Susulan",
+      "lokas": "https://docs.google.com/forms/d/e/1FAIpQLSdVCcnz2jnikJiSLQNL82JDCGM6H-wVTvNMFBDua1rZbrWRpQ/viewform?usp=dialog"
     },{
-      "judul": "DDK PERHOTELAN",
-      "deskr": "Ujian Akhir Sekolah",
-      "lokas": "https://docs.google.com/forms/d/e/1FAIpQLSdtJFs8F4KCc6Tmwg7LczX1sbV78sJi72GAqTP689VUDAssfg/viewform?usp=dialog"
+      "judul": "SUSULAN SENI",
+      "deskr": "Susulan",
+      "lokas": "https://docs.google.com/forms/d/e/1FAIpQLSe7ZJz9rTPmM1cDQOHGB7ZdNHsd9ztZR4JjPv8qGZ2DZiyPCw/viewform?usp=dialog"
     },{
-      "judul": "DDK KULINER",
-      "deskr": "Ujian Akhir Sekolah",
-      "lokas": "https://docs.google.com/forms/d/e/1FAIpQLSdTg0mFj8ZMJvTOucn8wK5DOabJ-pdg5tabsTTioK-peYDwRQ/viewform?usp=dialog"
+      "judul": "SUSULAN BAHASA INDONESIA",
+      "deskr": "Susulan",
+      "lokas": "https://docs.google.com/forms/d/e/1FAIpQLSdOjZj3HmvyrA7RKrjfKKhXVg1zejR_BOfSc9AyCjrqvsHuKA/viewform?usp=dialog"
     },{
-      "judul": "DDK BUSANA",
-      "deskr": "Ujian Akhir Sekolah",
-      "lokas": "https://docs.google.com/forms/d/e/1FAIpQLSeZfgAE35SjWzXCUcKCjzG_wYPVaH7359nNUuQlpZhJTuxdDw/viewform?usp=dialog"
+      "judul": "SUSULAN MATEMATIKA",
+      "deskr": "Susulan",
+      "lokas": "https://docs.google.com/forms/d/e/1FAIpQLSe_RPXyCp6Tig1ydRJgSYyDjdI7ijcz5KaWlvX0al0iuXrAPA/viewform?usp=dialog"
     },{
-      "judul": "DDK KECANTIKAN",
-      "deskr": "Ujian Akhir Sekolah",
-      "lokas": "https://docs.google.com/forms/d/e/1FAIpQLScmKl8HxFW48nVqSXJf8kMuzlPuWYwgL_5Lva4MKUvdhZyJhw/viewform?usp=dialog"
+      "judul": "SUSULAN INFORMATIKA",
+      "deskr": "Susulan",
+      "lokas": "https://docs.google.com/forms/d/e/1FAIpQLSehwStsmK0sQLV7X0dDXQOTaeIaYeda8KTultj22DaKIznopA/viewform?usp=dialog"
+	},{
+      "judul": "SUSULAN SEJARAH",
+      "deskr": "Susulan",
+      "lokas": "https://docs.google.com/forms/d/e/1FAIpQLSf9jlh-O7I8DbL5zxQ6KnhLAfeG66JsqvsKSEpgXTrKoyawtg/viewform?usp=dialog"
+	  
+	  
     }
 	 ]
 }
